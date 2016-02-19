@@ -3,3 +3,6 @@
 !dist/*.js
 node_modules/
 bower_components/
+
+# Eclipse files
+/.project
